@@ -1,0 +1,6 @@
+{
+  "name": "JobPilot AI",
+  "description": "Global early-career job discovery, visa sponsorship intelligence, and international application platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
